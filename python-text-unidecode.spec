@@ -8,7 +8,7 @@ Summary:	The most basic Text::Unidecode port
 Summary(pl.UTF-8):	Bardzo podstawowy port Text::Unidecode
 Name:		python-text-unidecode
 Version:	1.3
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/text-unidecode/
